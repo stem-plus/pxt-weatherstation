@@ -1,7 +1,7 @@
 {
-    "name": "DS3231",
+    "name": "WeatherStation",
     "version": "0.1.0",
-    "description": "Package for DS3231 real-time clock module developed by Jack Ho et al.",
+    "description": "Package for Weather Station",
     "license": "MIT",
     "dependencies": {
         "core": "*"
